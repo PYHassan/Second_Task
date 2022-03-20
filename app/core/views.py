@@ -9,7 +9,7 @@ class SchoolViewSet(viewsets.ModelViewSet):
     serializer_class = SchoolSerializer
     filter_backends = [filters.SearchFilter]
     # SearchFilter for search for specific student
-    search_fields = ['name']
+    search_fields = ['school_name']
 
 
 class StudentViewSet(viewsets.ModelViewSet):
