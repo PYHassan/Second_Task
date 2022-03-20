@@ -1,0 +1,1 @@
+from djangotest import TestCase
