@@ -16,5 +16,5 @@ Run <code> docker-compose up </code> and go to http://127.0.0.1:8000/
 - app/management/commands/wait_for_db for managing the database connection.
 # Time
 - The task takes 30 minutes for setting up the environment and 1 hour for development.
-# Screen Shoots
-- Set of screen shoots will be send via mail to demonstrate the task execution.
+# Screen Shots
+- Set of screen shots will be send via mail to demonstrate the task execution.
